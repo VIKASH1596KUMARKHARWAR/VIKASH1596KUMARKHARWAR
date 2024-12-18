@@ -1,24 +1,16 @@
-### Hi there 👋
+# About Me
 
-<!--
-**VIKASH1596KUMARKHARWAR/VIKASH1596KUMARKHARWAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Vikash Kumar Kharwar**! 👋 I'm a **third-year Computer Science and Engineering student** at the **National Institute of Technology, Mizoram**. I have a strong passion for **robotics**, **AI**, **machine learning**, and **software development**.
 
-Here are some ideas to get you started:
+I enjoy solving complex problems and developing innovative solutions that make a difference.Currently, I'm exploring **full-stack development**, **advanced backend programming**, and **DevOps tools like Docker, Kubernetes, Kafka**, and many more. I’m always eager to learn new technologies and approaches.
 
-- 🔭 I’m currently working on ... AN IDEA WHICH I HAVE SUBMITED TO THE DEVFOLIO....EyeCare a comprehensive eye solution
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-i an attaching the video drive link ....
-https://drive.google.com/file/d/10VtenwlPwcmcg2xS608iSz30_m_fd-nC/view?usp=sharing
 
-the prototype link
+Some of my key interests include:
+- **Backend Development**: Building robust and scalable server-side applications.
+- **Full-Stack Development**: Creating seamless and responsive applications from the ground up.
+- **Machine Learning**: Leveraging AI for data analysis and predictive modeling.
+- **Competitive Programming**: Sharpening my problem-solving and algorithmic skills on platforms like **Codeforces**.
 
-https://www.figma.com/file/3QgcDm1R366ZDDkh9wtRty/EyeCare---A-Comprehensive-Solution?type=design&node-id=1%3A65&mode=design&t=3jDUP4AKlBc2L30V-1
-the link of ideation ppt 
-https://docs.google.com/presentation/d/1BWlkh65uzBfRUr6umcBbeoXoLoNe0YrVEIZTimlyljQ/edit?usp=sharing
+You can find my projects on [GitHub](https://github.com/VIKASH1596KUMARKHARWAR) and connect with me on [LinkedIn](https://www.linkedin.com/in/vikash-kumar-kharwar-1596/).
+
+Feel free to reach out if you'd like to collaborate or talk tech!
