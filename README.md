@@ -1,5 +1,5 @@
 👋 **Hi, I’m Vikash Kumar Kharwar**  
-🎓 **3rd Undergraduate** at **NIT Mizoram**  
+🎓 **3rd yr Undergraduate** at **NIT Mizoram**  
 🌱 Learning **Machine Learning** & exploring **DevOps** tools like **Docker**, **Kubernetes**, **Kafka**  
 💻 Passionate about **MERN stack** & **Full-Stack Development**  
 📬 Reach me: [amit.sbz1596@gmail.com](mailto:amit.sbz1596@gmail.com) 
