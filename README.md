@@ -1,16 +1,8 @@
-# About Me
-
-Hi, I'm **Vikash Kumar Kharwar**! 👋  
-I'm a **third-year CS student** at **NIT Mizoram** with a passion for **robotics**, **AI**, **machine learning**, and **software development**.
-
-Currently, I’m exploring **full-stack development**, **backend programming**, and **DevOps tools** like **Docker**, **Kubernetes**, and **Kafka**.
-
-### Key Interests:
-- **Backend & Full-Stack Development**
-- **Machine Learning & AI**
-- **Competitive Programming** on **Codeforces**
-
-Check out my projects on [GitHub](https://github.com/VIKASH1596KUMARKHARWAR) and connect with me on [LinkedIn](https://www.linkedin.com/in/vikash-kumar-kharwar-1596/).
-
-Let’s collaborate or chat tech! 🚀
+👋 Hi, I’m **Vikash Kumar Kharwar**  
+👀 I’m an undergraduate at **National Institute of Technology, Mizoram**  
+🌱 Currently learning **Machine Learning** and enhancing my skills in **DevOps** with tools like **Docker**, **Kubernetes**, and **Kafka**  
+💞️ I’m looking to work on **MERN stack** projects and **full-stack development**  
+📫 How to reach me: [amit.sbz1596@gmail.com](mailto:amit.sbz1596@gmail.com) / [coolabhi4050@gmail.com](mailto:coolabhi4050@gmail.com)  
+😄 Pronouns: **he/him**  
+⚡ Fun fact: I'm a huge fan of **competitive programming** and enjoy playing **BGMI**  
 
