@@ -1,5 +1,5 @@
 # Hi, I’m Vikash Kumar Kharwar 👋
-🎓 **3rd Year Undergraduate** at **NIT Mizoram**  
+🎓 **4rd Year Undergraduate** at **NIT Mizoram**  
 🌱 Learning **Machine Learning** & exploring **DevOps** tools like **Docker**, **Kubernetes**, **Kafka**  
 💻 Passionate about **Full-Stack Development** (MERN stack) and **Software Testing**  
 🔎 Actively looking to collaborate on **Open Source Projects**  
