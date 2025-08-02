@@ -7,7 +7,7 @@
 
 📬 Contact Me
 - **Email 1:** [amit.sbz1596@gmail.com](mailto:amit.sbz1596@gmail.com)  
-- **Email 2:** [vikash21596.nitmz@gmail.com](mailto:vikash21596.nitmz@gmail.com
+- **Email 2:** [vikash21596.nitmz@gmail.com](mailto:vikash21596.nitmz@gmail.com)
  
 - **LinkedIn**: [Vikash Kumar Kharwar](https://www.linkedin.com/in/vikash-kumar-kharwar-142157265/)  
 ⚡ **Fun fact:** Competitive programmer & FSD enthusiast
