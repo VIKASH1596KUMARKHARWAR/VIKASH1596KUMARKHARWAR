@@ -4,7 +4,7 @@
 🌱 Learning **Machine Learning** & exploring **DevOps** tools like **Docker**, **Kubernetes**, **Kafka**  
 💻 Passionate about **Full-Stack Development (MERN Stack)** and **Software Testing**  
 🔎 Actively looking to collaborate on **Open Source Projects**  
-🌐 **Portfolio**: [portfolio-vikash1.vercel.app](https://portfolio-vikash1.vercel.app/)  
+🌐 **Portfolio**: [portfolio-vikash-rose.vercel.app](https://portfolio-vikash-rose.vercel.app/)  
 
 ---
 
