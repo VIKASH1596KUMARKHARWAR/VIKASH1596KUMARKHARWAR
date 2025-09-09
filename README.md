@@ -3,7 +3,7 @@
 🌱 Learning **Machine Learning** & exploring **DevOps** tools like **Docker**, **Kubernetes**, **Kafka**  
 💻 Passionate about **Full-Stack Development** (MERN stack) and **Software Testing**  
 🔎 Actively looking to collaborate on **Open Source Projects**  
-🌐 Portfolio :[https://portfolio-vikash1.vercel.app/](https://portfolio-vikash1.vercel.app/)
+🌐 Portfolio :[https://portfolio-vikash-rose.vercel.app/](https://portfolio-vikash1.vercel.app/)
 
 📬 Contact Me
 - **Email 1:** [amit.sbz1596@gmail.com](mailto:amit.sbz1596@gmail.com)  
